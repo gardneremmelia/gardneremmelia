@@ -1,6 +1,6 @@
  👋 Hello World, I’m Emmelia Gardner! 
-I’m in my last term at SNHU studying Information Technology with a concentration in software development.
-I was recently accepted into Boston University's M.S. in software development program with a start date in January of 2025!💜
+I have my Bachelors in Information Technologies with a concentration in software development.
+I am due to start Boston University's M.S. in software development program in January of 2025!💜
 
 My languages: Python, Java, C++, SQL, HTML, CSS 👾
 Currently learning: C# and JavaScript 
